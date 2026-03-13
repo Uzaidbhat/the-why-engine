@@ -1,5 +1,5 @@
 {
-  "name": "why-engine",
+  "name": "why-engine", ;;
   "version": "0.1.0",
   "private": true,
   "scripts": {
